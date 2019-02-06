@@ -1,7 +1,7 @@
 # Generador de memes
 
 ### Uso
-Coloca el archivo memes.py en el mismo directorio en el que está tu archivo principal e importalo. Recuerda instalar la dependencia 'requests' en Thonny.
+Coloca el archivo memes.py en el mismo directorio en el que está tu archivo principal e impórtalo. Recuerda instalar la dependencia 'requests' en Thonny.
 
 ```python
   from memes import MemesClient
